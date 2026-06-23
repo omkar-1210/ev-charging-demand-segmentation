@@ -1,0 +1,15 @@
+Best Random Forest Parameters
+
+n_estimators = 300
+max_depth = 20
+min_samples_split = 10
+min_samples_leaf = 8
+max_features = log2
+
+Cross-Validation Results (TimeSeriesSplit)
+
+Accuracy  : 0.9344 ± 0.0477
+Precision : 0.3469 ± 0.0388
+Recall    : 0.6504 ± 0.1811
+F1-Score  : 0.4379 ± 0.0648
+ROC-AUC   : 0.9376 ± 0.0294
