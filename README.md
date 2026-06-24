@@ -348,4 +348,9 @@ ev-charging-demand-segmentation/
 
 **Omkar Lone**
 
+<<<<<<< HEAD
 GitHub: https://github.com/omkar-1210
+=======
+
+GitHub: https://github.com/omkar-1210
+>>>>>>> 5fe3f60 (Add Power BI dashboard and project documentation)
