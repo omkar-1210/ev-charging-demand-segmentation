@@ -267,6 +267,7 @@ A three-page interactive dashboard was developed to communicate insights.
 
 ![Dashboard Page 1](reports/dashboard_page1.png)
 
+
 ---
 
 ### 2. Station Segmentation Analysis
